@@ -1,0 +1,49 @@
+[
+ 
+    {
+        "device_id": "64edf60c059e8f10",
+        "username": "user",
+        "password": "pass",
+        "expirydate": "15-03-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3ec52463a90b42ef",
+        "username": "user11",
+        "password": "pass11",
+        "expirydate": "23-02-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "3f51a7ae6877fa96",
+        "username": "user12",
+        "password": "pass12",
+        "expirydate": "11-02-2029",
+        "Allowoffline": false
+     },
+    {
+        "device_id": "4d7dda4e73564dab",
+        "username": "userx7",
+        "password": "passx7",
+        "expirydate": "04-03-2026",
+        "Allowoffline": false
+     },
+    {
+        "device_id": "60fc72088210befe",
+        "username": "userx1",
+        "password": "passx1",
+        "expirydate": "25-02-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5ad76d1aa808dd41",
+        "username": "userx2",
+        "password": "passx3",
+        "expirydate": "25-02-2026",
+        "Allowoffline": false
+    },
+   
+
+
+
+]
