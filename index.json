@@ -1,49 +1,83 @@
-[
- 
-    {
-        "device_id": "204187a3b5f462b9",
-        "username": "koushik",
-        "password": "king",
-        "expirydate": "",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3ec52463a90b42ef",
-        "username": "user11",
-        "password": "pass11",
-        "expirydate": "23-02-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3f51a7ae6877fa96",
-        "username": "user12",
-        "password": "pass12",
-        "expirydate": "11-02-2029",
-        "Allowoffline": false
-     },
-    {
-        "device_id": "4d7dda4e73564dab",
-        "username": "userx7",
-        "password": "passx7",
-        "expirydate": "04-03-2026",
-        "Allowoffline": false
-     },
-    {
-        "device_id": "60fc72088210befe",
-        "username": "userx1",
-        "password": "passx1",
-        "expirydate": "25-02-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "5ad76d1aa808dd41",
-        "username": "userx2",
-        "password": "passx3",
-        "expirydate": "25-02-2026",
-        "Allowoffline": false
-    },
-   
+{
 
+  "title": "Premium Access",
 
+  "author": "AbirMahmud",
 
-]
+  "injoy": [
+
+    "Example 1",
+
+    "Example 2"
+
+  ],
+
+  "alphabet_line": "Contact the admin to activate the app.",
+
+  "join_telegram": "https://wa.me/8801831669134",
+
+  "android_ids": [
+
+    {
+
+      "id": "4bc3e15d492ff761",
+
+      "expiry_date": "26/01/2026",
+
+      "added_on": "23/12/2025 19:10:45"
+
+    },
+
+    {
+
+      "id": "08016bfa18f45f81",
+
+      "expiry_date": "23/12/2026",
+
+      "added_on": "23/12/2025 19:11:24"
+
+    },
+
+    {
+
+      "id": "44a9142b844f9849",
+
+      "expiry_date": "22/02/2026",
+
+      "added_on": "23/12/2025 19:23:12"
+
+    },
+
+    {
+
+      "id": "d8a46d1e6b177dfe",
+
+      "expiry_date": "25/02/2026",
+
+      "added_on": "25/12/2025 16:52:24"
+
+    },
+
+    {
+
+      "id": "ccb424ab2b64240c",
+
+      "expiry_date": "20/02/2026",
+
+      "added_on": "23/12/2025 19:23:12"
+
+    },
+
+    {
+
+      "id": "c5f1034864a0a0ed",
+
+      "expiry_date": "26/02/2026",
+
+      "added_on": "26/12/2025 09:18:16"
+
+    }
+
+  ]
+
+}
