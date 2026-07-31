@@ -1,83 +1,34 @@
 {
-
-  "title": "Premium Access",
-
-  "author": "AbirMahmud",
-
-  "injoy": [
-
-    "Example 1",
-
-    "Example 2"
-
-  ],
-
-  "alphabet_line": "Contact the admin to activate the app.",
-
-  "join_telegram": "https://wa.me/8801831669134",
-
-  "android_ids": [
-
-    {
-
-      "id": "204187a3b5f462b9",
-
-      "expiry_date": "26/09/2026",
-
-      "added_on": "23/12/2025 19:10:45"
-
-    },
-
-    {
-
-      "id": "08016bfa18f45f81",
-
-      "expiry_date": "23/12/2026",
-
-      "added_on": "23/12/2025 19:11:24"
-
-    },
-
-    {
-
-      "id": "44a9142b844f9849",
-
-      "expiry_date": "22/02/2026",
-
-      "added_on": "23/12/2025 19:23:12"
-
-    },
-
-    {
-
-      "id": "d8a46d1e6b177dfe",
-
-      "expiry_date": "25/02/2026",
-
-      "added_on": "25/12/2025 16:52:24"
-
-    },
-
-    {
-
-      "id": "ccb424ab2b64240c",
-
-      "expiry_date": "20/02/2026",
-
-      "added_on": "23/12/2025 19:23:12"
-
-    },
-
-    {
-
-      "id": "c5f1034864a0a0ed",
-
-      "expiry_date": "26/02/2026",
-
-      "added_on": "26/12/2025 09:18:16"
-
-    }
-
-  ]
-
+    "devices": [
+        {
+            "device_id": "1234567890abcdef",
+            "verification_key": "123456",
+            "owner": "Rahul Sharma"
+        },
+        {
+            "device_id": "fedcba0987654321",
+            "verification_key": "654321",
+            "owner": "Priya Patel"
+        },
+        {
+            "device_id": "a1b2c3d4e5f67890",
+            "verification_key": "112233",
+            "owner": "Amit Kumar"
+        },
+        {
+            "device_id": "0987654321fedcba",
+            "verification_key": "445566",
+            "owner": "Sneha Reddy"
+        },
+        {
+            "device_id": "9876543210abcdef",
+            "verification_key": "778899",
+            "owner": "Vikram Singh"
+        },
+        {
+            "device_id": "abcdef1234567890",
+            "verification_key": "990011",
+            "owner": "Neha Jain"
+        }
+    ]
 }
