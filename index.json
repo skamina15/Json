@@ -1,9 +1,9 @@
 {
     "devices": [
         {
-            "device_id": "1234567890abcdef",
-            "verification_key": "123456",
-            "owner": "Rahul Sharma"
+            "device_id": "3071ef31255e70ba",
+            "verification_key": "King",
+            "owner": "Koushik"
         },
         {
             "device_id": "fedcba0987654321",
